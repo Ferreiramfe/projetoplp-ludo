@@ -1,8 +1,12 @@
 
-#Jogo Ludo
-##Conceito:
+# Jogo Ludo
+
+## Conceito:
+
   `O programa consiste em um sistema que forneça as mesmas opções de jogabilidade que um ludo de tabuleiro normal (jogo físico).`
-##Especificações:
+
+## Especificações:
+
 * ao ser executado, o jogo deve fornecer um menu de navegação com as opções de jogo que um jogo de ludo no tabuleiro físico tem, sendo possível selecioná-las.
 * o usuário terá a opção de escolher quantos jogadores irão participar, sendo de 2 a 4 pessoas.
 * o usuário terá a opção de escolher jogar contra o ‘computador’ e sua quantidade, sendo:
